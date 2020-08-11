@@ -1,16 +1,22 @@
 <?php
 
 function load_my_css(){
-    wp_register_style('style', get_stylesheet_directory_uri() . './style.css',time() );
+    wp_register_style('style', get_stylesheet_directory_uri() . './style.css',time(),'1.7' );
     wp_enqueue_style('style');
+
+
  }
+
 
 function load_my_js(){
     wp_deregister_script('jquery');
-	wp_enqueue_script('jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js', array(), null, true);
+	wp_enqueue_script('jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js', array(),'3.1.1',true);
     
-    wp_register_script('index', get_stylesheet_directory_uri() . '/index.js',array('jquery'), time(), true);
+    wp_register_script('index', get_stylesheet_directory_uri() . './index.js', 'jquery', '1.0.1',true);
     wp_enqueue_script('index');
+
+    wp_enqueue_script('slick', 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js', 'jquery','1.9.0',true);
+    
  }
  add_action( 'wp_enqueue_scripts', 'load_my_js' );
 
@@ -65,7 +71,3 @@ function wcs_custom_get_availability( $availability, $_product ) {
 
     return $availability;
 }
-
-
-
-

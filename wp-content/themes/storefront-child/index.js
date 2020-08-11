@@ -60,3 +60,35 @@ jQuery(window).on("load", function () {
   jQuery(document).ajaxComplete(function () {
     PbStyleQuantite();
   });
+
+// ========================Slider====================================
+
+jQuery(function ($) {
+  $(".slider").slick({
+    autoplay: true,
+    slidesToScroll: 1,
+    slidesToShow: 3,
+    autoplaySpeed: 2000,
+    centerMode: false,
+    arrows: false,
+    dots: true,
+    appendDots: ".slider-dots",
+    dotsClass: "dots-box",
+    responsive: [
+      {
+        breakpoint: 992,
+        settings: {
+          centerMode: false,
+          slidesToShow: 2,
+        },
+      },
+      {
+        breakpoint: 400,
+        settings: {
+          autoplay: false,
+          slidesToShow: 1,
+        },
+      },
+    ],
+  });
+});
