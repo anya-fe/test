@@ -1,0 +1,15 @@
+2020-08-10T17:29:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\OSPanel\domains\wordpress\wp-includes\template.php on line 662
+
+2020-08-10T17:33:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\OSPanel\domains\wordpress\wp-includes\template.php on line 662
+
+2020-08-10T17:35:26+00:00 CRITICAL Uncaught Error: Call to a member function get_average_rating() on string in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php:30
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(725): require()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(672): load_template('C:\\OSPanel\\doma...', false)
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\content-single.php(22): get_template_part('./template-part...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\template.php(725): require('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-includes\template.php(672): load_template('C:\\OSPanel\\doma...', false)
+#6 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#7 C:\OSPanel\domains\wordpress\wp-content\themes\storefront\single.php(19): get_template_part('content', 'single in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php on line 30
+

@@ -1,0 +1,51 @@
+2020-08-07T07:59:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\woocommerce\single-product\stock.php on line 12 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\woocommerce\single-product\stock.php(12): remove_action('woocommerce_bef...')
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3411): wc_get_template('single-product/...', Array)
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\woocommerce\single-product\add-to-cart\simple.php(26): wc_get_stock_html(Object(WC_Product_Simple))
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include('C:\\OSPanel\\doma...')
+#5 in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-07T08:00:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\woocommerce\single-product\stock.php on line 12 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\woocommerce\single-product\stock.php(12): remove_action('woocommerce_bef...')
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3411): wc_get_template('single-product/...', Array)
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\woocommerce\single-product\add-to-cart\simple.php(26): wc_get_stock_html(Object(WC_Product_Simple))
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include('C:\\OSPanel\\doma...')
+#5 in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-07T09:04:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_register_script(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 8 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\functions.wp-scripts.php:154
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(8): wp_register_script('./qty-selector')
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): load_my_js('')
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\OSPanel\domains\wordpress\wp-includes\script-loader.php(2294): do_action('wp_enqueue_scri...')
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): wp_enqueue_scripts('')
+#6 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\OSPanel\domains\wordpress\wp-includ in C:\OSPanel\domains\wordpress\wp-includes\functions.wp-scripts.php on line 154
+
+2020-08-07T09:05:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_register_script(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 8 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\functions.wp-scripts.php:154
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(8): wp_register_script('./qty-selector')
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): load_my_js('')
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\OSPanel\domains\wordpress\wp-includes\script-loader.php(2294): do_action('wp_enqueue_scri...')
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): wp_enqueue_scripts('')
+#6 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\OSPanel\domains\wordpress\wp-includ in C:\OSPanel\domains\wordpress\wp-includes\functions.wp-scripts.php on line 154
+
+2020-08-07T09:14:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_register_script(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 10 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\functions.wp-scripts.php:154
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(10): wp_register_script('qty-selector')
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): load_my_js('')
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\OSPanel\domains\wordpress\wp-includes\script-loader.php(2294): do_action('wp_enqueue_scri...')
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): wp_enqueue_scripts('')
+#6 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\OSPanel\domains\wordpress\wp-includ in C:\OSPanel\domains\wordpress\wp-includes\functions.wp-scripts.php on line 154
+

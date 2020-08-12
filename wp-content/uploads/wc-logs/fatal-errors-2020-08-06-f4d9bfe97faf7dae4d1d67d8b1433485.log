@@ -1,0 +1,285 @@
+2020-08-06T12:18:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:18:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:18:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:19:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:19:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:19:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:19:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:20:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:20:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:20:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:20:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:20:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:20:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:20:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:403
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): add_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 403
+
+2020-08-06T12:20:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:403
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): add_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 403
+
+2020-08-06T12:21:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-admin\customize.php(13): require_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:21:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 3 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(3): remove_action('woocommerce_sin...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:26:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 5 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(5): remove_action('woocommerce_tem...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:26:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 5 and at least 2 expected in C:\OSPanel\domains\wordpress\wp-includes\plugin.php:583
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php(5): remove_action('woocommerce_tem...')
+#1 C:\OSPanel\domains\wordpress\wp-settings.php(508): include('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-includes\plugin.php on line 583
+
+2020-08-06T12:26:31+00:00 CRITICAL syntax error, unexpected '>' in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 14
+
+2020-08-06T12:26:31+00:00 CRITICAL syntax error, unexpected '>' in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 14
+
+2020-08-06T12:26:32+00:00 CRITICAL syntax error, unexpected '>' in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 14
+
+2020-08-06T12:26:33+00:00 CRITICAL syntax error, unexpected '>' in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 14
+
+2020-08-06T13:46:40+00:00 CRITICAL Uncaught Error: Call to undefined function emove_action() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-settings.php(508): include()
+#1 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 18
+
+2020-08-06T13:46:40+00:00 CRITICAL Uncaught Error: Call to undefined function emove_action() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-settings.php(508): include()
+#1 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 18
+
+2020-08-06T13:46:40+00:00 CRITICAL Uncaught Error: Call to undefined function emove_action() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-settings.php(508): include()
+#1 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 18
+
+2020-08-06T13:46:40+00:00 CRITICAL Uncaught Error: Call to undefined function emove_action() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-settings.php(508): include()
+#1 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 18
+
+2020-08-06T13:46:41+00:00 CRITICAL Uncaught Error: Call to undefined function emove_action() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-settings.php(508): include()
+#1 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 18
+
+2020-08-06T13:46:41+00:00 CRITICAL Uncaught Error: Call to undefined function emove_action() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-settings.php(508): include()
+#1 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 18
+
+2020-08-06T13:46:42+00:00 CRITICAL Uncaught Error: Call to undefined function emove_action() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-settings.php(508): include()
+#1 C:\OSPanel\domains\wordpress\wp-config.php(90): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wordpress\wp-load.php(37): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wordpress\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\functions.php on line 18
+

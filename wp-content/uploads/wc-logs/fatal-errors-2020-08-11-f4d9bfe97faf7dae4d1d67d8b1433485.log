@@ -1,0 +1,66 @@
+2020-08-11T13:52:07+00:00 CRITICAL Uncaught Error: Call to undefined function block_value() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php:8
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(319): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(264): acf_render_block(Array, '', Object(WP_Block), 122)
+#2 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\class-wp-block.php(227): acf_rendered_block(Array, '', Object(WP_Block))
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\compat.php(531): WP_Block->render()
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): gutenberg_render_block_with_assigned_block_context(NULL, Array)
+#5 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(NULL, Array)
+#6 C:\OSPanel\domains\wordpress\wp-includes\blocks.php(455): apply_filters('pre_render_bloc...', NULL, Array)
+#7 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php on line 8
+
+2020-08-11T13:54:21+00:00 CRITICAL Uncaught Error: Call to undefined function block_value() in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php:8
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(319): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(264): acf_render_block(Array, '', Object(WP_Block), 122)
+#2 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\class-wp-block.php(227): acf_rendered_block(Array, '', Object(WP_Block))
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\compat.php(531): WP_Block->render()
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): gutenberg_render_block_with_assigned_block_context(NULL, Array)
+#5 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(NULL, Array)
+#6 C:\OSPanel\domains\wordpress\wp-includes\blocks.php(455): apply_filters('pre_render_bloc...', NULL, Array)
+#7 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php on line 8
+
+2020-08-11T13:56:26+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(319): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(264): acf_render_block(Array, '', Object(WP_Block), 122)
+#2 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\class-wp-block.php(227): acf_rendered_block(Array, '', Object(WP_Block))
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\compat.php(531): WP_Block->render()
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): gutenberg_render_block_with_assigned_block_context(NULL, Array)
+#5 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(NULL, Array)
+#6 C:\OSPanel\domains\wordpress\wp-includes\blocks.php(455): apply_filters('pre_render_bloc...', NULL, Array)
+# in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php on line 18
+
+2020-08-11T13:56:51+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php:18
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(319): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(264): acf_render_block(Array, '', Object(WP_Block), 122)
+#2 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\class-wp-block.php(227): acf_rendered_block(Array, '', Object(WP_Block))
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\gutenberg\lib\compat.php(531): WP_Block->render()
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): gutenberg_render_block_with_assigned_block_context(NULL, Array)
+#5 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(NULL, Array)
+#6 C:\OSPanel\domains\wordpress\wp-includes\blocks.php(455): apply_filters('pre_render_bloc...', NULL, Array)
+# in C:\OSPanel\domains\wordpress\wp-content\themes\storefront-child\template-parts\slider.php on line 18
+
+2020-08-11T14:26:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\OSPanel\domains\wordpress\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): storefront_header_cart('')
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\OSPanel\domains\wordpress\wp-content\themes\storefront\header.php(48): do_action('storefront_head...')
+#5 C:\OSPanel\domains\wordpress\wp-includes\template.php(723): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\wp-includes\template.php(672): load_template('C:\\OSPanel\\doma...', true)
+#7 C:\OSPanel\domains\wordpress\wp-includes\general-template. in C:\OSPanel\domains\wordpress\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php on line 77
+
+2020-08-11T14:26:43+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\OSPanel\domains\wordpress\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(287): storefront_header_cart('')
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\OSPanel\domains\wordpress\wp-content\themes\storefront\header.php(48): do_action('storefront_head...')
+#5 C:\OSPanel\domains\wordpress\wp-includes\template.php(723): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\wp-includes\template.php(672): load_template('C:\\OSPanel\\doma...', true)
+#7 C:\OSPanel\domains\wordpress\wp-includes\general-template. in C:\OSPanel\domains\wordpress\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php on line 77
+
